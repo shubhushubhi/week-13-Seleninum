@@ -40,7 +40,6 @@ public class LoginTest extends BaseTest {
         WebElement login = driver.findElement(By.xpath("//*[@id=\"loginPanel\"]/form/div[3]/input"));
         actions.moveToElement(login).click().build().perform();
         String ExpectedText = "The username and password could not be verified.";
-
     }
 
     //Task 4.3
