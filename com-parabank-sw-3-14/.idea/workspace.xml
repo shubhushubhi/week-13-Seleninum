@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d57b3ac2-2dfb-4ce2-b45b-ee541a878fe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/Overview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/parabank/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/parabank/browserfactory/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/parabank/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/parabank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/parabank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/parabank/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/parabank/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/parabank/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/parabank/testsuite/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/Componantpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/HPLP3065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/LaptopsNotebooksPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/MacBookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/page/ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/main/java/com/tutorialsninja/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/test/java/com/tutorialsninja/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/test/java/com/tutorialsninja/testsuite/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/test/java/desktops/DesktopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/test/java/laptopsandnotebooks/LaptopsAndNotebooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/test/java/myaccounts/MyAccountsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ninja-maven/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-13-Selenium/com-tutorialsninja-sw-3/src/main/java/desktops/DesktopsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-13-Selenium/com-tutorialsninja-sw-3/src/main/java/desktops/DesktopsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ZVPUDx0ICsHJ7qoYWnqxEfGanA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/com-parabank-sw-3-14/src/test/java/com/parabank",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\com-parabank-sw-3-14\src\test\java\com\parabank" />
+      <recent name="C:\com-parabank-sw-3-14\src\main\java\com\parabank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegisterTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="com-parabank-sw-3-14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="com-parabank-sw-3-14" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencb4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.testsuite.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.userShouldLogOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencb4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="userShouldLogOutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.userShouldLoginSuccessfullyWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencb4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="userShouldLoginSuccessfullyWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencb4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.testsuite.RegisterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest.verifyThatSigningUpPageDisplay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencb4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.parabank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.parabank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.parabank.testsuite.RegisterTest" />
+      <option name="METHOD_NAME" value="verifyThatSigningUpPageDisplay" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegisterTest" />
+        <item itemvalue="TestNG.RegisterTest.verifyThatSigningUpPageDisplay" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.userShouldLogOutSuccessfully" />
+        <item itemvalue="TestNG.LoginTest.userShouldLoginSuccessfullyWithValidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57b3ac2-2dfb-4ce2-b45b-ee541a878fe1" name="Changes" comment="" />
+      <created>1702504288740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702504288740</updated>
+    </task>
+    <servers />
+  </component>
+</project>
