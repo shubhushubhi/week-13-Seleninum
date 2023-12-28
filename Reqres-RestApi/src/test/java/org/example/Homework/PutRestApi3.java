@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.equalTo;
 
-public class PutRestApi {
+public class PutRestApi3 {
     ValidatableResponse validatableResponse;
     RequestSpecification requestSpecification;
     ResponseSpecification responseSpecification;
@@ -21,8 +21,8 @@ public class PutRestApi {
         String jsonData = "{\n" +
                 "    \"name\": \"Rajaram\",\n" +
                 "    \"job\": \"Tester\",\n" +
-                "    \"id\": \"882\",\n" +
-                "    \"createdAt\": \"2023-12-26T18:39:55.108Z\"\n" +
+                "    \"id\": \"763\",\n" +
+                "    \"createdAt\": \"2023-12-26T19:05:36.816Z\"\n" +
                 "}";
 
         given()
@@ -33,8 +33,6 @@ public class PutRestApi {
                 .then().statusCode(200)
                 .body("name", equalTo("Rajaram"))
         .body("job", equalTo("Tester"))
-        .body("createdAt", equalTo("2023-12-26T18:39:55.108Z"));
-
-
+        .body("createdAt", equalTo("2023-12-26T19:05:36.816Z"));
     }
 }

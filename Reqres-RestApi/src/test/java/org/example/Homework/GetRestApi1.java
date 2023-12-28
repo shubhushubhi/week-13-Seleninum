@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class GetRestApi {
+public class GetRestApi1 {
     RequestSpecification requestSpecification;
     Response response;
     ValidatableResponse validatableResponse;

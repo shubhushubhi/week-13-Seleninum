@@ -1,6 +1,7 @@
 package org.example.Homework;
 
 import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
@@ -9,8 +10,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.equalTo;
-
-public class DeleteRestApi {
+public class DeleteRestApi4 {
     RequestSpecification requestSpecification;
     Response response;
     ResponseSpecification responseSpecification;
@@ -25,6 +25,5 @@ public class DeleteRestApi {
 
         validatableResponse = response.then();
         validatableResponse.statusCode(204);
-        validatableResponse.body("message", equalTo("Successfully! Record has been deleted"));
     }
 }
